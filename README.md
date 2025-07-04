@@ -46,7 +46,7 @@ final-project-inventory/
    ```
 
 2. **Place Dataset**
-   Download the `Online Retail II UCI` dataset from [Google Drive](https://drive.google.com/file/d/10TpWu-EacFtY80edzhkISZ-i9m6pAteA/view?usp=sharing) and place the `online_retail_II.csv` file in the `./data/` folder.
+   Download the `Online Retail II UCI` dataset from [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci) and place the `online_retail_II.csv` file in the `./data/` folder.
 
 3. **Generate Secret Key**
    Airflow requires a consistent secret key. Generate one using:
@@ -120,8 +120,4 @@ The pipeline processes retail transaction data by:
 ## Additional Resources
 
 - **Video Presentation**: [Watch the project presentation](https://drive.google.com/file/d/1s5n1j9nDuxk7G-aoqfdeOboRlNvcQ_Bc/view?usp=sharing)
-- **Dataset**: [Download Online Retail II dataset](https://drive.google.com/file/d/10TpWu-EacFtY80edzhkISZ-i9m6pAteA/view?usp=sharing)
-
-## License
-
-This project is licensed under the MIT License.
+- **Dataset**: [Download Online Retail II dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
