@@ -109,14 +109,6 @@ The pipeline processes retail transaction data by:
 4. Aggregating stock by product
 5. Storing clean data in PostgreSQL
 
-## Contributing
-
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Create Pull Request
-
 ## Additional Resources
 
 - **Video Presentation**: [Watch the project presentation](https://drive.google.com/file/d/1s5n1j9nDuxk7G-aoqfdeOboRlNvcQ_Bc/view?usp=sharing)
